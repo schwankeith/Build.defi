@@ -73,9 +73,9 @@ For more information, [click here](https://github.com/casinocrypto/crypto-casino
 You can use the `img` folder for screenshots included in the project. This folder contains the following files:
 
 ![](img/1.png) 
-- **2.png**: 
-- **3.png**:
-- **4.png**:
+![](img/2.png)
+![](img/3.png)
+![](img/4.png)
 
 These images can be used as sample screenshots while customizing or promoting your project.
 
