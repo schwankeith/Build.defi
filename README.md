@@ -72,7 +72,7 @@ For more information, [click here](https://github.com/casinocrypto/crypto-casino
 
 You can use the `img` folder for screenshots included in the project. This folder contains the following files:
 
-!(1.png) 
+![](1.png) 
 - **2.png**: 
 - **3.png**:
 - **4.png**:
